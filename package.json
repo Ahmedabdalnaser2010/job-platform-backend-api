@@ -1,17 +1,14 @@
 {
   "name": "job-platfom-backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "npm install && npm prune --production",
-    "dev": "node index.js"
+    "start": "node server.js",
+    "build": "npm install",
+    "dev": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.4"
   },
   "engines": {
     "node": ">=14.0.0"
