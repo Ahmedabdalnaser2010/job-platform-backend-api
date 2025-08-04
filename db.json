@@ -1,0 +1,1489 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "company_logo": "https://example.com/logos/techsoft.png",
+            "job_title": "Senior Frontend Developer",
+            "job_category": "Software Development",
+            "posting_date": "5 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "TechSoft Solutions",
+            "company_location": {
+                "city": "San Francisco",
+                "country": "USA",
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 120000,
+                "max": 160000
+            },
+            "company_description": "TechSoft is a leading SaaS provider building innovative solutions for the digital age with over 500 enterprise clients worldwide.",
+            "job_description": "We're seeking an experienced Frontend Developer to lead our React-based application development team. You'll architect scalable solutions, optimize performance, and mentor junior developers while collaborating closely with UX designers and backend engineers to deliver exceptional user experiences across our product suite.",
+            "key_responsibilities": [
+                "Develop new user-facing features using React and TypeScript",
+                "Build reusable components and front-end libraries",
+                "Optimize applications for maximum performance",
+                "Collaborate with UX/UI designers",
+                "Mentor junior developers"
+            ],
+            "required_skills": [
+                "React",
+                "TypeScript",
+                "Redux",
+                "CSS/SASS",
+                "REST APIs",
+                "Jest/Testing Library"
+            ]
+        },
+        {
+            "id": 2,
+            "company_logo": "https://example.com/logos/devhouse.png",
+            "job_title": "Backend Engineer",
+            "job_category": "Software Development",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "DevHouse Technologies",
+            "company_location": {
+                "city": "Austin",
+                "country": "USA",
+                "latitude": 30.2672,
+                "longitude": -97.7431
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 100000,
+                "max": 130000
+            },
+            "company_description": "Fast-growing tech company specializing in cloud-based infrastructure solutions for the financial sector.",
+            "job_description": "We're looking for a Backend Engineer to develop and maintain our core API services. You'll work with Node.js and Python to build scalable microservices, optimize database performance, and implement security best practices while collaborating with our DevOps team to ensure high availability.",
+            "key_responsibilities": [
+                "Develop and maintain API services",
+                "Optimize database queries",
+                "Implement security measures",
+                "Write unit and integration tests",
+                "Troubleshoot production issues"
+            ],
+            "required_skills": [
+                "Node.js",
+                "Python",
+                "PostgreSQL",
+                "RESTful APIs",
+                "Docker",
+                "AWS"
+            ]
+        },
+        {
+            "id": 3,
+            "company_logo": "https://example.com/logos/mobilefirst.png",
+            "job_title": "iOS Developer",
+            "job_category": "Software Development",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "MobileFirst Apps",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 110000,
+                "max": 140000
+            },
+            "company_description": "Award-winning mobile app development studio creating innovative iOS and Android applications for Fortune 500 clients.",
+            "job_description": "Join our team as an iOS Developer to create beautiful, high-performance applications using Swift and UIKit. You'll collaborate with designers to implement pixel-perfect interfaces, architect new features, and help define best practices for our growing iOS team while staying current with the latest Apple technologies.",
+            "key_responsibilities": [
+                "Develop new iOS features",
+                "Fix bugs and improve performance",
+                "Collaborate with UI/UX designers",
+                "Write unit tests",
+                "Participate in code reviews"
+            ],
+            "required_skills": [
+                "Swift",
+                "UIKit",
+                "SwiftUI",
+                "Xcode",
+                "Core Data",
+                "Git"
+            ]
+        },
+        {
+            "id": 4,
+            "company_logo": "https://example.com/logos/cloudnine.png",
+            "job_title": "DevOps Engineer",
+            "job_category": "Software Development",
+            "posting_date": "3 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "CloudNine Systems",
+            "company_location": {
+                "city": "Seattle",
+                "country": "USA",
+                "latitude": 47.6062,
+                "longitude": -122.3321
+            },
+            "required_experience": "6+ years",
+            "salary_range": {
+                "min": 130000,
+                "max": 170000
+            },
+            "company_description": "Enterprise cloud infrastructure provider helping businesses migrate and optimize their workloads in AWS and Azure environments.",
+            "job_description": "We need an experienced DevOps Engineer to architect and maintain our CI/CD pipelines, Kubernetes clusters, and monitoring systems. You'll automate deployments, optimize cloud costs, and implement security controls while mentoring junior team members and collaborating with development teams to improve reliability.",
+            "key_responsibilities": [
+                "Maintain CI/CD pipelines",
+                "Manage Kubernetes clusters",
+                "Implement monitoring solutions",
+                "Automate infrastructure provisioning",
+                "Optimize cloud costs"
+            ],
+            "required_skills": [
+                "AWS",
+                "Kubernetes",
+                "Terraform",
+                "Jenkins",
+                "Prometheus",
+                "Python"
+            ]
+        },
+        {
+            "id": 5,
+            "company_logo": "https://example.com/logos/datavision.png",
+            "job_title": "Junior Data Scientist",
+            "job_category": "Software Development",
+            "posting_date": "4 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "DataVision Analytics",
+            "company_location": {
+                "city": "Boston",
+                "country": "USA",
+                "latitude": 42.3601,
+                "longitude": -71.0589
+            },
+            "required_experience": "0-2 years",
+            "salary_range": {
+                "min": 70000,
+                "max": 90000
+            },
+            "company_description": "Data science consultancy helping businesses leverage machine learning and advanced analytics to solve complex problems.",
+            "job_description": "This entry-level Data Scientist position is perfect for recent graduates looking to apply statistical modeling and machine learning techniques to real-world business problems. You'll work under senior data scientists to clean data, build models, and create visualizations while developing expertise in Python and data engineering best practices.",
+            "key_responsibilities": [
+                "Clean and preprocess data",
+                "Build machine learning models",
+                "Create data visualizations",
+                "Document findings",
+                "Assist with client presentations"
+            ],
+            "required_skills": [
+                "Python",
+                "Pandas",
+                "Scikit-learn",
+                "SQL",
+                "Data visualization",
+                "Statistics"
+            ]
+        },
+        {
+            "id": 6,
+            "company_logo": "https://example.com/logos/healthcare.png",
+            "job_title": "Registered Nurse",
+            "job_category": "Healthcare",
+            "posting_date": "3 days ago",
+            "job_type": "Part-time",
+            "experience_level": "Mid-Level",
+            "company_name": "City General Hospital",
+            "company_location": {
+                "city": "Chicago",
+                "country": "USA",
+                "latitude": 41.8781,
+                "longitude": -87.6298
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 35000,
+                "max": 45000
+            },
+            "company_description": "Award-winning hospital serving the community for over 50 years with state-of-the-art facilities and a commitment to patient-centered care.",
+            "job_description": "We are looking for a compassionate Registered Nurse to provide high-quality patient care in our cardiology department. You will be responsible for assessing patient conditions, administering treatments, monitoring vital signs, and collaborating with our healthcare team to develop comprehensive care plans for diverse patient needs.",
+            "key_responsibilities": [
+                "Assess patient health problems and needs",
+                "Develop and implement nursing care plans",
+                "Administer medications and treatments",
+                "Monitor and record patient symptoms",
+                "Educate patients and families"
+            ],
+            "required_skills": [
+                "Active RN license",
+                "BLS/ACLS certification",
+                "Patient assessment",
+                "IV therapy",
+                "Electronic health records"
+            ]
+        },
+        {
+            "id": 7,
+            "company_logo": "https://example.com/logos/carewell.png",
+            "job_title": "Physical Therapist",
+            "job_category": "Healthcare",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "CareWell Rehabilitation",
+            "company_location": {
+                "city": "Denver",
+                "country": "USA",
+                "latitude": 39.7392,
+                "longitude": -104.9903
+            },
+            "required_experience": "6+ years",
+            "salary_range": {
+                "min": 75000,
+                "max": 95000
+            },
+            "company_description": "Comprehensive rehabilitation center offering physical, occupational, and speech therapy services with multiple locations across the metro area.",
+            "job_description": "We're seeking an experienced Physical Therapist to join our team, specializing in orthopedic and sports rehabilitation. You'll evaluate patients, develop treatment plans, and implement therapeutic interventions while mentoring junior staff and contributing to our evidence-based practice standards in a collaborative clinical environment.",
+            "key_responsibilities": [
+                "Evaluate patient conditions",
+                "Develop treatment plans",
+                "Implement therapeutic interventions",
+                "Document patient progress",
+                "Mentor junior staff"
+            ],
+            "required_skills": [
+                "DPT degree",
+                "State licensure",
+                "Orthopedic rehabilitation",
+                "Manual therapy",
+                "Exercise prescription"
+            ]
+        },
+        {
+            "id": 8,
+            "company_logo": "https://example.com/logos/medlab.png",
+            "job_title": "Medical Laboratory Technician",
+            "job_category": "Healthcare",
+            "posting_date": "5 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "MedLab Diagnostics",
+            "company_location": {
+                "city": "Phoenix",
+                "country": "USA",
+                "latitude": 33.4484,
+                "longitude": -112.0740
+            },
+            "required_experience": "0-1 years",
+            "salary_range": {
+                "min": 22000,
+                "max": 28000
+            },
+            "company_description": "Full-service medical laboratory providing testing services for hospitals, clinics, and private practices throughout the region.",
+            "job_description": "Entry-level position for a Medical Laboratory Technician to perform routine clinical lab tests under supervision. You'll prepare specimens, operate lab equipment, and report results while learning advanced testing procedures in our CAP-accredited facility with opportunities for professional growth and certification.",
+            "key_responsibilities": [
+                "Prepare and analyze specimens",
+                "Operate laboratory equipment",
+                "Record test results",
+                "Maintain quality control standards",
+                "Follow safety protocols"
+            ],
+            "required_skills": [
+                "Associate degree in MLT",
+                "Attention to detail",
+                "Basic lab techniques",
+                "Data entry",
+                "Teamwork"
+            ]
+        },
+        {
+            "id": 9,
+            "company_logo": "https://example.com/logos/heartspecialists.png",
+            "job_title": "Cardiologist",
+            "job_category": "Healthcare",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "Heart Specialists Group",
+            "company_location": {
+                "city": "Miami",
+                "country": "USA",
+                "latitude": 25.7617,
+                "longitude": -80.1918
+            },
+            "required_experience": "10+ years",
+            "salary_range": {
+                "min": 300000,
+                "max": 400000
+            },
+            "company_description": "Premier cardiology practice offering comprehensive cardiac care including diagnostic testing, interventional procedures, and rehabilitation services.",
+            "job_description": "We're seeking a board-certified Cardiologist to join our growing practice. You'll diagnose and treat patients with cardiovascular conditions, perform diagnostic tests, and develop treatment plans while collaborating with our team of specialists to provide exceptional cardiac care in both outpatient and hospital settings.",
+            "key_responsibilities": [
+                "Diagnose cardiovascular conditions",
+                "Develop treatment plans",
+                "Perform diagnostic tests",
+                "Interpret test results",
+                "Provide patient education"
+            ],
+            "required_skills": [
+                "Board certification",
+                "Echocardiography",
+                "Cardiac catheterization",
+                "Patient communication",
+                "Clinical judgment"
+            ]
+        },
+        {
+            "id": 10,
+            "company_logo": "https://example.com/logos/pediatriccare.png",
+            "job_title": "Pediatric Nurse Practitioner",
+            "job_category": "Healthcare",
+            "posting_date": "7 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "Pediatric Care Associates",
+            "company_location": {
+                "city": "Atlanta",
+                "country": "USA",
+                "latitude": 33.7490,
+                "longitude": -84.3880
+            },
+            "required_experience": "4+ years",
+            "salary_range": {
+                "min": 95000,
+                "max": 115000
+            },
+            "company_description": "Pediatric group practice providing compassionate care to children from birth through adolescence with multiple locations across the metro area.",
+            "job_description": "We're hiring a Pediatric Nurse Practitioner to provide primary care to pediatric patients. You'll conduct well-child exams, diagnose and treat acute illnesses, provide anticipatory guidance to families, and collaborate with our team of pediatricians to deliver comprehensive care in a supportive clinical environment.",
+            "key_responsibilities": [
+                "Conduct well-child exams",
+                "Diagnose and treat illnesses",
+                "Order and interpret tests",
+                "Provide patient education",
+                "Document patient encounters"
+            ],
+            "required_skills": [
+                "PNP certification",
+                "Pediatric assessment",
+                "Vaccination protocols",
+                "Growth chart interpretation",
+                "Family education"
+            ]
+        },
+        {
+            "id": 11,
+            "company_logo": "https://example.com/logos/financepro.png",
+            "job_title": "Financial Analyst",
+            "job_category": "Finance",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Junior",
+            "company_name": "FinancePro Group",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "1-3 years",
+            "salary_range": {
+                "min": 65000,
+                "max": 85000
+            },
+            "company_description": "Boutique financial services firm specializing in investment analysis and wealth management for high-net-worth individuals and institutional clients.",
+            "job_description": "As a Junior Financial Analyst, you will support our investment team by conducting financial research, building models, and analyzing market trends. This role offers excellent growth opportunities for candidates looking to develop their skills in fundamental analysis and financial modeling in a dynamic work environment.",
+            "key_responsibilities": [
+                "Assist in preparing financial models",
+                "Analyze industry and company trends",
+                "Create investment reports",
+                "Support due diligence processes",
+                "Help present findings to senior staff"
+            ],
+            "required_skills": [
+                "Financial modeling",
+                "Excel proficiency",
+                "Basic accounting knowledge",
+                "Data analysis",
+                "Research skills"
+            ]
+        },
+        {
+            "id": 12,
+            "company_logo": "https://example.com/logos/capitalbank.png",
+            "job_title": "Commercial Loan Officer",
+            "job_category": "Finance",
+            "posting_date": "4 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "Capital Bank",
+            "company_location": {
+                "city": "Charlotte",
+                "country": "USA",
+                "latitude": 35.2271,
+                "longitude": -80.8431
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 75000,
+                "max": 95000
+            },
+            "company_description": "Regional bank providing commercial and personal banking services with a focus on small business lending and community development.",
+            "job_description": "We're looking for a Commercial Loan Officer to develop new business relationships and manage a portfolio of commercial loans. You'll analyze financial statements, assess credit risk, and structure loan packages while building relationships with local businesses and helping them achieve their financial goals.",
+            "key_responsibilities": [
+                "Develop new business relationships",
+                "Analyze loan applications",
+                "Structure loan packages",
+                "Monitor loan portfolios",
+                "Maintain client relationships"
+            ],
+            "required_skills": [
+                "Financial statement analysis",
+                "Credit risk assessment",
+                "Loan structuring",
+                "Business development",
+                "Regulatory compliance"
+            ]
+        },
+        {
+            "id": 13,
+            "company_logo": "https://example.com/logos/taxprep.png",
+            "job_title": "Senior Accountant",
+            "job_category": "Finance",
+            "posting_date": "6 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "TaxPrep Professionals",
+            "company_location": {
+                "city": "Dallas",
+                "country": "USA",
+                "latitude": 32.7767,
+                "longitude": -96.7970
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000
+            },
+            "company_description": "Full-service accounting firm providing tax preparation, audit, and consulting services to businesses and individuals.",
+            "job_description": "Senior Accountant position available to lead client engagements, review financial statements, and supervise junior staff. You'll prepare complex tax returns, provide strategic tax planning advice, and ensure compliance with accounting standards while developing long-term client relationships and mentoring our accounting team.",
+            "key_responsibilities": [
+                "Prepare and review financial statements",
+                "Supervise junior accountants",
+                "Prepare complex tax returns",
+                "Provide tax planning advice",
+                "Ensure regulatory compliance"
+            ],
+            "required_skills": [
+                "CPA certification",
+                "GAAP knowledge",
+                "Tax preparation",
+                "Financial reporting",
+                "Team leadership"
+            ]
+        },
+        {
+            "id": 14,
+            "company_logo": "https://example.com/logos/investwise.png",
+            "job_title": "Investment Banking Analyst",
+            "job_category": "Finance",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "InvestWise Capital",
+            "company_location": {
+                "city": "Boston",
+                "country": "USA",
+                "latitude": 42.3601,
+                "longitude": -71.0589
+            },
+            "required_experience": "0-2 years",
+            "salary_range": {
+                "min": 85000,
+                "max": 100000
+            },
+            "company_description": "Middle-market investment bank specializing in M&A advisory, capital raising, and financial restructuring services.",
+            "job_description": "Entry-level position for recent graduates to begin a career in investment banking. You'll support deal teams by building financial models, preparing pitch books, conducting industry research, and assisting with due diligence while receiving comprehensive training in corporate finance and transaction execution.",
+            "key_responsibilities": [
+                "Build financial models",
+                "Prepare pitch books",
+                "Conduct industry research",
+                "Support due diligence",
+                "Create presentation materials"
+            ],
+            "required_skills": [
+                "Financial modeling",
+                "Excel proficiency",
+                "PowerPoint skills",
+                "Research abilities",
+                "Attention to detail"
+            ]
+        },
+        {
+            "id": 15,
+            "company_logo": "https://example.com/logos/wealthmasters.png",
+            "job_title": "Wealth Management Advisor",
+            "job_category": "Finance",
+            "posting_date": "3 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "WealthMasters Group",
+            "company_location": {
+                "city": "San Diego",
+                "country": "USA",
+                "latitude": 32.7157,
+                "longitude": -117.1611
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 90000,
+                "max": 120000
+            },
+            "company_description": "Premier wealth management firm providing comprehensive financial planning and investment management services to high-net-worth clients.",
+            "job_description": "We're seeking a Wealth Management Advisor to develop and maintain client relationships while providing holistic financial planning services. You'll analyze client financial situations, develop customized plans, and implement investment strategies while coordinating with our team of specialists to deliver exceptional service to our affluent clientele.",
+            "key_responsibilities": [
+                "Develop financial plans",
+                "Manage client relationships",
+                "Implement investment strategies",
+                "Monitor portfolio performance",
+                "Identify new business opportunities"
+            ],
+            "required_skills": [
+                "CFP preferred",
+                "Financial planning",
+                "Investment knowledge",
+                "Client relationship management",
+                "Presentation skills"
+            ]
+        },
+        {
+            "id": 16,
+            "company_logo": "https://example.com/logos/edulink.png",
+            "job_title": "High School Math Teacher",
+            "job_category": "Education",
+            "posting_date": "7 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "EduLink Academy",
+            "company_location": {
+                "city": "Boston",
+                "country": "USA",
+                "latitude": 42.3601,
+                "longitude": -71.0589
+            },
+            "required_experience": "2-5 years",
+            "salary_range": {
+                "min": 48000,
+                "max": 65000
+            },
+            "company_description": "Progressive private school serving grades 6-12 with innovative STEM programs and a focus on project-based learning.",
+            "job_description": "We seek an enthusiastic Math Teacher to join our team, capable of teaching Algebra through Calculus to diverse learners. The ideal candidate will create engaging lesson plans, differentiate instruction, and foster a growth mindset while helping students develop strong problem-solving skills and mathematical reasoning abilities.",
+            "key_responsibilities": [
+                "Develop and implement lesson plans",
+                "Assess student progress",
+                "Differentiate instruction",
+                "Collaborate with colleagues",
+                "Communicate with parents"
+            ],
+            "required_skills": [
+                "State teaching certification",
+                "Classroom management",
+                "Curriculum development",
+                "Differentiated instruction",
+                "Technology integration"
+            ]
+        },
+        {
+            "id": 17,
+            "company_logo": "https://example.com/logos/littlelearners.png",
+            "job_title": "Preschool Teacher",
+            "job_category": "Education",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "Little Learners Preschool",
+            "company_location": {
+                "city": "Portland",
+                "country": "USA",
+                "latitude": 45.5051,
+                "longitude": -122.6750
+            },
+            "required_experience": "0-1 years",
+            "salary_range": {
+                "min": 32000,
+                "max": 38000
+            },
+            "company_description": "Nationally accredited preschool providing early childhood education with a play-based curriculum for children ages 2-5.",
+            "job_description": "Entry-level Preschool Teacher position available to work with our 3-4 year old classroom. You'll implement developmentally appropriate activities, foster social-emotional growth, and create a nurturing learning environment while collaborating with our teaching team and communicating regularly with parents about their child's progress.",
+            "key_responsibilities": [
+                "Implement daily lesson plans",
+                "Foster social-emotional development",
+                "Maintain a safe classroom environment",
+                "Observe and assess children",
+                "Communicate with parents"
+            ],
+            "required_skills": [
+                "Early childhood education",
+                "Classroom management",
+                "Child development knowledge",
+                "Communication skills",
+                "Creativity"
+            ]
+        },
+        {
+            "id": 18,
+            "company_logo": "https://example.com/logos/univglobal.png",
+            "job_title": "College Professor - Computer Science",
+            "job_category": "Education",
+            "posting_date": "5 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "University Global",
+            "company_location": {
+                "city": "Chicago",
+                "country": "USA",
+                "latitude": 41.8781,
+                "longitude": -87.6298
+            },
+            "required_experience": "8+ years",
+            "salary_range": {
+                "min": 85000,
+                "max": 110000
+            },
+            "company_description": "Private university known for excellence in STEM education with state-of-the-art facilities and a diverse student population.",
+            "job_description": "Tenure-track position for a Computer Science Professor to teach undergraduate and graduate courses, conduct research, and contribute to curriculum development. We're particularly interested in candidates with expertise in artificial intelligence or cybersecurity who can establish a strong research program while mentoring students.",
+            "key_responsibilities": [
+                "Teach computer science courses",
+                "Conduct academic research",
+                "Advise students",
+                "Participate in curriculum development",
+                "Serve on academic committees"
+            ],
+            "required_skills": [
+                "PhD in Computer Science",
+                "Teaching experience",
+                "Research publications",
+                "Subject matter expertise",
+                "Mentoring ability"
+            ]
+        },
+        {
+            "id": 19,
+            "company_logo": "https://example.com/logos/readingrainbow.png",
+            "job_title": "Reading Specialist",
+            "job_category": "Education",
+            "posting_date": "3 days ago",
+            "job_type": "Part-time",
+            "experience_level": "Mid-Level",
+            "company_name": "Reading Rainbow Elementary",
+            "company_location": {
+                "city": "Seattle",
+                "country": "USA",
+                "latitude": 47.6062,
+                "longitude": -122.3321
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 35000,
+                "max": 45000
+            },
+            "company_description": "Public elementary school with a strong focus on literacy development and differentiated instruction to meet diverse learner needs.",
+            "job_description": "Part-time Reading Specialist position to work with struggling readers in grades K-5. You'll assess reading levels, develop intervention plans, and provide small group instruction while collaborating with classroom teachers to implement strategies that support literacy development across all subject areas.",
+            "key_responsibilities": [
+                "Assess student reading levels",
+                "Develop intervention plans",
+                "Provide small group instruction",
+                "Train teachers in literacy strategies",
+                "Monitor student progress"
+            ],
+            "required_skills": [
+                "Reading certification",
+                "Assessment skills",
+                "Intervention strategies",
+                "Differentiated instruction",
+                "Collaboration skills"
+            ]
+        },
+        {
+            "id": 20,
+            "company_logo": "https://example.com/logos/techtrain.png",
+            "job_title": "IT Instructor",
+            "job_category": "Education",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "TechTrain Institute",
+            "company_location": {
+                "city": "Austin",
+                "country": "USA",
+                "latitude": 30.2672,
+                "longitude": -97.7431
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 60000,
+                "max": 75000
+            },
+            "company_description": "Vocational training institute providing career-focused technology education to adult learners through hands-on, project-based courses.",
+            "job_description": "We're hiring an IT Instructor to teach our full-stack web development bootcamp. You'll deliver instruction in HTML, CSS, JavaScript, and popular frameworks while guiding students through real-world projects and helping them develop professional portfolios to launch their tech careers.",
+            "key_responsibilities": [
+                "Deliver technical instruction",
+                "Develop course materials",
+                "Guide student projects",
+                "Provide career coaching",
+                "Assess student work"
+            ],
+            "required_skills": [
+                "Full-stack development",
+                "Teaching experience",
+                "JavaScript frameworks",
+                "Curriculum development",
+                "Mentoring skills"
+            ]
+        },
+        {
+            "id": 21,
+            "company_logo": "https://example.com/logos/designhub.png",
+            "job_title": "UX Designer",
+            "job_category": "Design",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "DesignHub Creative",
+            "company_location": {
+                "city": "Austin",
+                "country": "USA",
+                "latitude": 30.2672,
+                "longitude": -97.7431
+            },
+            "required_experience": "0-2 years",
+            "salary_range": {
+                "min": 55000,
+                "max": 70000
+            },
+            "company_description": "Digital design agency specializing in user experience and interface design for startups and established brands across multiple industries.",
+            "job_description": "This entry-level UX Designer position is perfect for recent graduates looking to launch their career in user experience design. You'll work alongside senior designers conducting user research, creating wireframes, and helping design intuitive interfaces for web and mobile applications while receiving mentorship from industry professionals.",
+            "key_responsibilities": [
+                "Assist with user research",
+                "Create wireframes and prototypes",
+                "Participate in design reviews",
+                "Help conduct usability testing",
+                "Document design decisions"
+            ],
+            "required_skills": [
+                "Figma/Sketch",
+                "User research",
+                "Wireframing",
+                "Basic UI design",
+                "Collaboration"
+            ]
+        },
+        {
+            "id": 22,
+            "company_logo": "https://example.com/logos/brandmasters.png",
+            "job_title": "Senior Graphic Designer",
+            "job_category": "Design",
+            "posting_date": "5 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "BrandMasters Agency",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "7+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000
+            },
+            "company_description": "Full-service creative agency specializing in brand identity, packaging design, and marketing collateral for consumer brands.",
+            "job_description": "Senior Graphic Designer position leading creative projects from concept through execution. You'll develop visual identities, design packaging systems, and create marketing materials while mentoring junior designers and collaborating with our strategy team to deliver compelling brand experiences that resonate with target audiences.",
+            "key_responsibilities": [
+                "Develop brand identities",
+                "Design packaging systems",
+                "Create marketing collateral",
+                "Mentor junior designers",
+                "Present concepts to clients"
+            ],
+            "required_skills": [
+                "Adobe Creative Suite",
+                "Brand development",
+                "Packaging design",
+                "Art direction",
+                "Client presentation"
+            ]
+        },
+        {
+            "id": 23,
+            "company_logo": "https://example.com/logos/homedesign.png",
+            "job_title": "Interior Designer",
+            "job_category": "Design",
+            "posting_date": "3 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "HomeDesign Studio",
+            "company_location": {
+                "city": "Miami",
+                "country": "USA",
+                "latitude": 25.7617,
+                "longitude": -80.1918
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 60000,
+                "max": 75000
+            },
+            "company_description": "Luxury residential interior design firm creating bespoke living spaces for high-end clients throughout South Florida.",
+            "job_description": "Mid-level Interior Designer position to work on luxury residential projects. You'll develop design concepts, create presentations, select furnishings, and oversee installations while collaborating with architects, contractors, and craftsmen to deliver exceptional spaces that reflect each client's unique style and functional needs.",
+            "key_responsibilities": [
+                "Develop design concepts",
+                "Create client presentations",
+                "Select furnishings and finishes",
+                "Oversee installations",
+                "Manage project timelines"
+            ],
+            "required_skills": [
+                "Space planning",
+                "AutoCAD/SketchUp",
+                "Material selection",
+                "Client communication",
+                "Project management"
+            ]
+        },
+        {
+            "id": 24,
+            "company_logo": "https://example.com/logos/motionart.png",
+            "job_title": "Motion Graphics Designer",
+            "job_category": "Design",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Junior",
+            "company_name": "MotionArt Studios",
+            "company_location": {
+                "city": "Los Angeles",
+                "country": "USA",
+                "latitude": 34.0522,
+                "longitude": -118.2437
+            },
+            "required_experience": "1-3 years",
+            "salary_range": {
+                "min": 50000,
+                "max": 65000
+            },
+            "company_description": "Boutique animation studio creating motion graphics and visual effects for advertising, entertainment, and digital media clients.",
+            "job_description": "Junior Motion Graphics Designer to create engaging animations for commercials, social media, and entertainment projects. You'll work under senior animators to design and animate graphics while developing your skills in After Effects, Cinema 4D, and other industry-standard tools in a collaborative creative environment.",
+            "key_responsibilities": [
+                "Create motion graphics",
+                "Assist with storyboarding",
+                "Animate text and graphics",
+                "Edit video content",
+                "Collaborate with creative team"
+            ],
+            "required_skills": [
+                "After Effects",
+                "Cinema 4D",
+                "Illustration",
+                "Animation principles",
+                "Video editing"
+            ]
+        },
+        {
+            "id": 25,
+            "company_logo": "https://example.com/logos/productinnovate.png",
+            "job_title": "Product Designer",
+            "job_category": "Design",
+            "posting_date": "4 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "ProductInnovate",
+            "company_location": {
+                "city": "San Francisco",
+                "country": "USA",
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 95000,
+                "max": 120000
+            },
+            "company_description": "Product design consultancy helping startups and established companies develop innovative physical products and user experiences.",
+            "job_description": "We're seeking a Product Designer to lead the design of physical consumer products from concept to production. You'll conduct user research, create prototypes, and work with engineers to refine designs while balancing user needs, business goals, and manufacturing constraints to deliver innovative, manufacturable solutions.",
+            "key_responsibilities": [
+                "Conduct user research",
+                "Develop product concepts",
+                "Create 3D models and prototypes",
+                "Collaborate with engineers",
+                "Prepare production documentation"
+            ],
+            "required_skills": [
+                "Industrial design",
+                "3D modeling (SolidWorks/Rhino)",
+                "Prototyping",
+                "User-centered design",
+                "Manufacturing knowledge"
+            ]
+        },
+        {
+            "id": 26,
+            "company_logo": "https://example.com/logos/buildright.png",
+            "job_title": "Construction Project Manager",
+            "job_category": "Construction",
+            "posting_date": "4 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "BuildRight Construction",
+            "company_location": {
+                "city": "Houston",
+                "country": "USA",
+                "latitude": 29.7604,
+                "longitude": -95.3698
+            },
+            "required_experience": "8+ years",
+            "salary_range": {
+                "min": 90000,
+                "max": 120000
+            },
+            "company_description": "Commercial construction firm specializing in mid-to-large scale projects including office buildings, healthcare facilities, and educational institutions.",
+            "job_description": "We are hiring an experienced Construction Project Manager to oversee commercial construction projects from planning through completion. You will be responsible for managing budgets, schedules, subcontractors, and quality control while ensuring projects meet all safety regulations and client specifications within established timelines and budgets.",
+            "key_responsibilities": [
+                "Manage project budgets and schedules",
+                "Coordinate subcontractors and vendors",
+                "Ensure compliance with safety regulations",
+                "Conduct site inspections",
+                "Maintain project documentation"
+            ],
+            "required_skills": [
+                "Project management",
+                "Construction methods",
+                "Budgeting",
+                "AutoCAD",
+                "Safety regulations"
+            ]
+        },
+        {
+            "id": 27,
+            "company_logo": "https://example.com/logos/homestead.png",
+            "job_title": "Residential Carpenter",
+            "job_category": "Construction",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "Homestead Builders",
+            "company_location": {
+                "city": "Denver",
+                "country": "USA",
+                "latitude": 39.7392,
+                "longitude": -104.9903
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 25000,
+                "max": 35000
+            },
+            "company_description": "Custom home builder specializing in high-end residential properties with a focus on sustainable building practices.",
+            "job_description": "Skilled Carpenter needed for custom home construction projects. You'll frame structures, install finishes, and work with various materials while adhering to building codes and project specifications. This position requires expertise in both rough and finish carpentry with opportunities to work on unique, architect-designed homes.",
+            "key_responsibilities": [
+                "Frame residential structures",
+                "Install interior finishes",
+                "Read and interpret blueprints",
+                "Maintain tools and equipment",
+                "Follow safety protocols"
+            ],
+            "required_skills": [
+                "Framing",
+                "Finish carpentry",
+                "Blueprint reading",
+                "Power tool operation",
+                "Attention to detail"
+            ]
+        },
+        {
+            "id": 28,
+            "company_logo": "https://example.com/logos/civilworks.png",
+            "job_title": "Civil Engineer",
+            "job_category": "Construction",
+            "posting_date": "6 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "CivilWorks Engineering",
+            "company_location": {
+                "city": "Phoenix",
+                "country": "USA",
+                "latitude": 33.4484,
+                "longitude": -112.0740
+            },
+            "required_experience": "0-2 years",
+            "salary_range": {
+                "min": 65000,
+                "max": 80000
+            },
+            "company_description": "Civil engineering firm providing design and consulting services for infrastructure projects including roads, bridges, and water systems.",
+            "job_description": "Entry-level Civil Engineer position to assist with the design and planning of civil infrastructure projects. You'll work under licensed engineers to prepare drawings, perform calculations, and conduct site inspections while developing expertise in civil engineering principles and project documentation.",
+            "key_responsibilities": [
+                "Assist with design drawings",
+                "Perform engineering calculations",
+                "Conduct site inspections",
+                "Prepare project documentation",
+                "Attend client meetings"
+            ],
+            "required_skills": [
+                "AutoCAD/Civil 3D",
+                "Engineering principles",
+                "Math proficiency",
+                "Technical writing",
+                "Team collaboration"
+            ]
+        },
+        {
+            "id": 29,
+            "company_logo": "https://example.com/logos/electricalpros.png",
+            "job_title": "Master Electrician",
+            "job_category": "Construction",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "Electrical Pros",
+            "company_location": {
+                "city": "Atlanta",
+                "country": "USA",
+                "latitude": 33.7490,
+                "longitude": -84.3880
+            },
+            "required_experience": "10+ years",
+            "salary_range": {
+                "min": 35000,
+                "max": 45000
+            },
+            "company_description": "Licensed electrical contracting company serving commercial and residential clients with a reputation for quality workmanship.",
+            "job_description": "Licensed Master Electrician needed to lead electrical installations and supervise crews on commercial projects. You'll interpret blueprints, ensure code compliance, troubleshoot systems, and mentor apprentice electricians while maintaining the highest standards of safety and quality for our clients.",
+            "key_responsibilities": [
+                "Install electrical systems",
+                "Interpret blueprints",
+                "Ensure code compliance",
+                "Troubleshoot electrical issues",
+                "Supervise apprentice electricians"
+            ],
+            "required_skills": [
+                "Master Electrician license",
+                "NEC knowledge",
+                "Blueprint reading",
+                "Electrical troubleshooting",
+                "Team leadership"
+            ]
+        },
+        {
+            "id": 30,
+            "company_logo": "https://example.com/logos/steelbuild.png",
+            "job_title": "Construction Estimator",
+            "job_category": "Construction",
+            "posting_date": "3 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "SteelBuild Construction",
+            "company_location": {
+                "city": "Dallas",
+                "country": "USA",
+                "latitude": 32.7767,
+                "longitude": -96.7970
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 70000,
+                "max": 90000
+            },
+            "company_description": "Commercial construction company specializing in steel frame buildings and industrial facilities across the Southwest.",
+            "job_description": "Construction Estimator position to prepare accurate bids for commercial construction projects. You'll analyze blueprints, calculate material and labor costs, and develop competitive proposals while collaborating with our project management team to ensure profitable and realistic project estimates.",
+            "key_responsibilities": [
+                "Analyze project plans",
+                "Calculate material quantities",
+                "Estimate labor costs",
+                "Prepare bid proposals",
+                "Collaborate with vendors"
+            ],
+            "required_skills": [
+                "Blueprint reading",
+                "Cost estimation",
+                "Construction knowledge",
+                "Excel proficiency",
+                "Attention to detail"
+            ]
+        },
+        {
+            "id": 31,
+            "company_logo": "https://example.com/logos/marketgenius.png",
+            "job_title": "Digital Marketing Specialist",
+            "job_category": "Marketing",
+            "posting_date": "6 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "MarketGenius",
+            "company_location": {
+                "city": "Seattle",
+                "country": "USA",
+                "latitude": 47.6062,
+                "longitude": -122.3321
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 60000,
+                "max": 80000
+            },
+            "company_description": "Full-service digital marketing agency helping brands grow through data-driven strategies across paid media, SEO, and content marketing channels.",
+            "job_description": "As a Digital Marketing Specialist, you will develop and execute multi-channel marketing campaigns for our diverse client portfolio. This role requires expertise in paid social, Google Ads, and analytics to drive measurable results while collaborating with our creative and content teams to deliver cohesive marketing strategies.",
+            "key_responsibilities": [
+                "Manage paid media campaigns",
+                "Analyze performance metrics",
+                "Optimize ad spend",
+                "Develop audience targeting strategies",
+                "Prepare client reports"
+            ],
+            "required_skills": [
+                "Google Ads",
+                "Facebook Ads",
+                "Google Analytics",
+                "SEO",
+                "Data analysis"
+            ]
+        },
+        {
+            "id": 32,
+            "company_logo": "https://example.com/logos/brandwise.png",
+            "job_title": "Brand Manager",
+            "job_category": "Marketing",
+            "posting_date": "4 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "BrandWise Consumer Products",
+            "company_location": {
+                "city": "Chicago",
+                "country": "USA",
+                "latitude": 41.8781,
+                "longitude": -87.6298
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 90000,
+                "max": 120000
+            },
+            "company_description": "Leading consumer packaged goods company with a portfolio of well-known food and beverage brands distributed nationally.",
+            "job_description": "Senior Brand Manager position to lead all aspects of brand strategy for our flagship product line. You'll develop marketing plans, oversee product innovation, manage budgets, and lead cross-functional teams to drive brand growth while analyzing market trends and consumer insights to inform strategic decisions.",
+            "key_responsibilities": [
+                "Develop brand strategy",
+                "Create marketing plans",
+                "Manage product innovation",
+                "Oversee marketing budgets",
+                "Lead cross-functional teams"
+            ],
+            "required_skills": [
+                "Brand management",
+                "Marketing strategy",
+                "Consumer insights",
+                "Project management",
+                "Team leadership"
+            ]
+        },
+        {
+            "id": 33,
+            "company_logo": "https://example.com/logos/contentcreators.png",
+            "job_title": "Content Marketing Writer",
+            "job_category": "Marketing",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Junior",
+            "company_name": "Content Creators Inc.",
+            "company_location": {
+                "city": "Portland",
+                "country": "USA",
+                "latitude": 45.5051,
+                "longitude": -122.6750
+            },
+            "required_experience": "1-3 years",
+            "salary_range": {
+                "min": 45000,
+                "max": 60000
+            },
+            "company_description": "Content marketing agency specializing in creating engaging written and visual content for B2B technology clients.",
+            "job_description": "Junior Content Writer position to create blog posts, whitepapers, and case studies for our technology clients. You'll research industry topics, interview subject matter experts, and produce compelling content that educates audiences and supports lead generation efforts while developing expertise in content marketing best practices.",
+            "key_responsibilities": [
+                "Write blog posts and articles",
+                "Research industry topics",
+                "Interview subject matter experts",
+                "Optimize content for SEO",
+                "Collaborate with editors"
+            ],
+            "required_skills": [
+                "Writing and editing",
+                "Research skills",
+                "SEO knowledge",
+                "Attention to detail",
+                "Meeting deadlines"
+            ]
+        },
+        {
+            "id": 34,
+            "company_logo": "https://example.com/logos/socialboost.png",
+            "job_title": "Social Media Manager",
+            "job_category": "Marketing",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "SocialBoost Marketing",
+            "company_location": {
+                "city": "Los Angeles",
+                "country": "USA",
+                "latitude": 34.0522,
+                "longitude": -118.2437
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 55000,
+                "max": 75000
+            },
+            "company_description": "Boutique social media marketing agency helping lifestyle brands build engaged communities and drive conversions through strategic content.",
+            "job_description": "Social Media Manager to develop and execute strategies for our fashion and beauty clients. You'll create content calendars, manage communities, analyze performance data, and stay ahead of platform trends while collaborating with influencers and content creators to amplify brand messaging across social channels.",
+            "key_responsibilities": [
+                "Develop social media strategies",
+                "Create content calendars",
+                "Manage online communities",
+                "Analyze performance metrics",
+                "Collaborate with influencers"
+            ],
+            "required_skills": [
+                "Social media platforms",
+                "Content creation",
+                "Community management",
+                "Analytics tools",
+                "Trend awareness"
+            ]
+        },
+        {
+            "id": 35,
+            "company_logo": "https://example.com/logos/emailmasters.png",
+            "job_title": "Email Marketing Specialist",
+            "job_category": "Marketing",
+            "posting_date": "5 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "EmailMasters",
+            "company_location": {
+                "city": "Boston",
+                "country": "USA",
+                "latitude": 42.3601,
+                "longitude": -71.0589
+            },
+            "required_experience": "2-4 years",
+            "salary_range": {
+                "min": 65000,
+                "max": 85000
+            },
+            "company_description": "Email marketing technology company providing platform and services to ecommerce brands looking to maximize customer lifetime value.",
+            "job_description": "Email Marketing Specialist to design and execute automated email campaigns for our ecommerce clients. You'll segment audiences, A/B test content, analyze performance, and optimize flows to drive conversions while staying current with email marketing best practices and compliance regulations.",
+            "key_responsibilities": [
+                "Design email campaigns",
+                "Segment customer lists",
+                "Conduct A/B testing",
+                "Analyze performance data",
+                "Optimize automation flows"
+            ],
+            "required_skills": [
+                "Email marketing platforms",
+                "HTML/CSS",
+                "Data analysis",
+                "Copywriting",
+                "Marketing automation"
+            ]
+        },
+        {
+            "id": 36,
+            "company_logo": "https://example.com/logos/customercare.png",
+            "job_title": "Customer Service Representative",
+            "job_category": "Customer Service",
+            "posting_date": "3 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "CustomerCare Solutions",
+            "company_location": {
+                "city": "Orlando",
+                "country": "USA",
+                "latitude": 28.5383,
+                "longitude": -81.3792
+            },
+            "required_experience": "0-1 years",
+            "salary_range": {
+                "min": 170000,
+                "max": 200000
+            },
+            "company_description": "Business process outsourcing company providing customer support services to leading brands across multiple industries.",
+            "job_description": "Entry-level Customer Service Representative to handle inbound customer inquiries via phone, email, and chat. You'll resolve issues, process orders, and provide product information while delivering exceptional service that builds customer loyalty and meets our client's brand standards.",
+            "key_responsibilities": [
+                "Respond to customer inquiries",
+                "Resolve issues and complaints",
+                "Process orders and returns",
+                "Document customer interactions",
+                "Meet performance metrics"
+            ],
+            "required_skills": [
+                "Communication skills",
+                "Problem-solving",
+                "Computer proficiency",
+                "Patience",
+                "Multitasking"
+            ]
+        },
+        {
+            "id": 37,
+            "company_logo": "https://example.com/logos/techsupport.png",
+            "job_title": "Technical Support Specialist",
+            "job_category": "Customer Service",
+            "posting_date": "1 day ago",
+            "job_type": "Full-time",
+            "experience_level": "Junior",
+            "company_name": "TechSupport Pro",
+            "company_location": {
+                "city": "San Diego",
+                "country": "USA",
+                "latitude": 32.7157,
+                "longitude": -117.1611
+            },
+            "required_experience": "1-2 years",
+            "salary_range": {
+                "min": 22000,
+                "max": 28000
+            },
+            "company_description": "IT support services provider offering technical assistance to small and medium businesses through remote and on-site solutions.",
+            "job_description": "Technical Support Specialist to provide remote assistance to business clients experiencing IT issues. You'll troubleshoot hardware and software problems, guide users through solutions, and escalate complex issues while documenting cases and maintaining high customer satisfaction scores.",
+            "key_responsibilities": [
+                "Troubleshoot technical issues",
+                "Guide users through solutions",
+                "Document support cases",
+                "Escalate complex problems",
+                "Maintain knowledge base"
+            ],
+            "required_skills": [
+                "Technical knowledge",
+                "Problem-solving",
+                "Communication skills",
+                "Patience",
+                "Remote support tools"
+            ]
+        },
+        {
+            "id": 38,
+            "company_logo": "https://example.com/logos/retailpros.png",
+            "job_title": "Retail Customer Service Manager",
+            "job_category": "Customer Service",
+            "posting_date": "5 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "RetailPros",
+            "company_location": {
+                "city": "Miami",
+                "country": "USA",
+                "latitude": 25.7617,
+                "longitude": -80.1918
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 45000,
+                "max": 55000
+            },
+            "company_description": "National retail chain specializing in consumer electronics with over 200 locations across the United States.",
+            "job_description": "Customer Service Manager to lead the front-end operations of our high-volume retail location. You'll oversee cashiers, handle escalated customer issues, implement service standards, and drive customer satisfaction while working closely with store leadership to achieve operational goals.",
+            "key_responsibilities": [
+                "Manage customer service team",
+                "Handle escalated issues",
+                "Implement service standards",
+                "Train new employees",
+                "Monitor customer satisfaction"
+            ],
+            "required_skills": [
+                "Team leadership",
+                "Conflict resolution",
+                "Retail operations",
+                "Training skills",
+                "Performance management"
+            ]
+        },
+        {
+            "id": 39,
+            "company_logo": "https://example.com/logos/callcenter.png",
+            "job_title": "Bilingual Call Center Representative",
+            "job_category": "Customer Service",
+            "posting_date": "2 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Entry-Level",
+            "company_name": "CallCenter Solutions",
+            "company_location": {
+                "city": "El Paso",
+                "country": "USA",
+                "latitude": 31.7619,
+                "longitude": -106.4850
+            },
+            "required_experience": "0-1 years",
+            "salary_range": {
+                "min": 18000,
+                "max": 22000
+            },
+            "company_description": "Multilingual call center providing customer support services to clients in the healthcare and financial services industries.",
+            "job_description": "Bilingual (English/Spanish) Call Center Representative to handle inbound customer service calls for our healthcare clients. You'll assist customers with billing questions, account updates, and general inquiries while providing compassionate service and accurate information in both languages.",
+            "key_responsibilities": [
+                "Handle inbound calls",
+                "Assist with billing inquiries",
+                "Update customer accounts",
+                "Document interactions",
+                "Meet quality standards"
+            ],
+            "required_skills": [
+                "Fluent English/Spanish",
+                "Communication skills",
+                "Active listening",
+                "Computer proficiency",
+                "Empathy"
+            ]
+        },
+        {
+            "id": 40,
+            "company_logo": "https://example.com/logos/hospitality.png",
+            "job_title": "Hotel Guest Services Manager",
+            "job_category": "Customer Service",
+            "posting_date": "4 days ago",
+            "job_type": "Full-time",
+            "experience_level": "Mid-Level",
+            "company_name": "Hospitality Group",
+            "company_location": {
+                "city": "Las Vegas",
+                "country": "USA",
+                "latitude": 36.1699,
+                "longitude": -115.1398
+            },
+            "required_experience": "3-5 years",
+            "salary_range": {
+                "min": 50000,
+                "max": 65000
+            },
+            "company_description": "Luxury hotel and resort property offering world-class accommodations and amenities on the Las Vegas Strip.",
+            "job_description": "Guest Services Manager to oversee front desk operations and ensure exceptional guest experiences at our luxury property. You'll lead a team of agents, handle VIP arrivals, resolve guest concerns, and implement service standards that exceed expectations in a fast-paced hospitality environment.",
+            "key_responsibilities": [
+                "Manage front desk team",
+                "Handle VIP arrivals",
+                "Resolve guest concerns",
+                "Implement service standards",
+                "Train new employees"
+            ],
+            "required_skills": [
+                "Hospitality experience",
+                "Team leadership",
+                "Problem-solving",
+                "Multitasking",
+                "Property management systems"
+            ]
+        }
+    ]
+}
