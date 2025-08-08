@@ -1968,6 +1968,2256 @@
                 "Data analysis",
                 "CRM systems"
             ]
+        },
+        {
+            "id": 50,
+            "company_logo": "https://logo.clearbit.com/github.com",
+            "job_title": "Frontend Developer",
+            "job_category": "Software Development",
+            "posting_date": "2025-08-10T09:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "GitHub",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 100000,
+                "max": 130000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health insurance",
+                "Stock options",
+                "Professional development",
+                "Flexible hours"
+            ],
+            "company_description": "GitHub is where the world builds software.",
+            "job_description": "Develop and maintain user interfaces for GitHub's web applications using modern frontend technologies.",
+            "key_responsibilities": [
+                "Implement UI components",
+                "Optimize performance",
+                "Collaborate with designers",
+                "Write clean code",
+                "Participate in code reviews"
+            ],
+            "required_skills": [
+                "JavaScript",
+                "React",
+                "HTML/CSS",
+                "REST APIs",
+                "Git"
+            ]
+        },
+        {
+            "id": 51,
+            "company_logo": "https://logo.clearbit.com/mayoclinic.org",
+            "job_title": "Pediatric Nurse",
+            "job_category": "Healthcare",
+            "posting_date": "2025-08-10T10:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Mayo Clinic",
+            "company_location": {
+                "city": "Rochester",
+                "country": "USA",
+                "latitude": 44.0216,
+                "longitude": -92.4699
+            },
+            "required_experience": "2+ years",
+            "salary_range": {
+                "min": 68000,
+                "max": 85000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Tuition reimbursement",
+                "Paid time off",
+                "Childcare assistance"
+            ],
+            "company_description": "Mayo Clinic is a nonprofit American academic medical center.",
+            "job_description": "Provide specialized nursing care to pediatric patients in a hospital setting.",
+            "key_responsibilities": [
+                "Patient assessment",
+                "Medication administration",
+                "Family education",
+                "Treatment coordination",
+                "Documentation"
+            ],
+            "required_skills": [
+                "Pediatric care",
+                "Communication",
+                "Clinical skills",
+                "Empathy",
+                "Teamwork"
+            ]
+        },
+        {
+            "id": 52,
+            "company_logo": "https://logo.clearbit.com/visa.com",
+            "job_title": "Financial Data Analyst",
+            "job_category": "Finance",
+            "posting_date": "2025-08-10T11:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Entry-level",
+            "company_name": "Visa",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "1+ years",
+            "salary_range": {
+                "min": 70000,
+                "max": 85000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "401(k) matching",
+                "Stock options",
+                "Tuition assistance",
+                "Flexible spending accounts"
+            ],
+            "company_description": "Visa is a global payments technology company.",
+            "job_description": "Analyze financial data to support business decisions and identify trends in payment processing.",
+            "key_responsibilities": [
+                "Data collection",
+                "Report generation",
+                "Trend analysis",
+                "Dashboard creation",
+                "Process improvement"
+            ],
+            "required_skills": [
+                "Excel",
+                "SQL",
+                "Data visualization",
+                "Financial analysis",
+                "Attention to detail"
+            ]
+        },
+        {
+            "id": 53,
+            "company_logo": "https://logo.clearbit.com/coursera.org",
+            "job_title": "Online Course Instructor - Business",
+            "job_category": "Education",
+            "posting_date": "2025-08-10T13:00:00Z",
+            "job_type": "Contract",
+            "experience_level": "Senior",
+            "company_name": "Coursera",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "5+ years in business",
+            "salary_range": {
+                "min": 80000,
+                "max": 110000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Flexible schedule",
+                "Professional development",
+                "Remote work",
+                "Course access",
+                "Networking opportunities"
+            ],
+            "company_description": "Coursera is a global online learning platform.",
+            "job_description": "Develop and teach business courses for Coursera's professional certificate programs.",
+            "key_responsibilities": [
+                "Course development",
+                "Video lectures",
+                "Assignment design",
+                "Student support",
+                "Content updates"
+            ],
+            "required_skills": [
+                "Business expertise",
+                "Teaching",
+                "Curriculum development",
+                "Communication",
+                "Online education"
+            ]
+        },
+        {
+            "id": 54,
+            "company_logo": "https://logo.clearbit.com/behance.net",
+            "job_title": "UX Researcher",
+            "job_category": "Design",
+            "posting_date": "2025-08-10T14:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Behance",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 90000,
+                "max": 120000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "Stock options",
+                "Research budget",
+                "Flexible hours",
+                "Professional development"
+            ],
+            "company_description": "Behance is the leading online platform to showcase & discover creative work.",
+            "job_description": "Conduct user research to inform design decisions and improve the Behance platform experience.",
+            "key_responsibilities": [
+                "User interviews",
+                "Usability testing",
+                "Data analysis",
+                "Persona development",
+                "Research reporting"
+            ],
+            "required_skills": [
+                "User research",
+                "Usability testing",
+                "Data analysis",
+                "Communication",
+                "Design thinking"
+            ]
+        },
+        {
+            "id": 55,
+            "company_logo": "https://logo.clearbit.com/caterpillar.com",
+            "job_title": "Construction Project Engineer",
+            "job_category": "Construction",
+            "posting_date": "2025-08-10T15:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Entry-level",
+            "company_name": "Caterpillar",
+            "company_location": {
+                "city": "Dallas",
+                "country": "USA",
+                "latitude": 32.7767,
+                "longitude": -96.7970
+            },
+            "required_experience": "0-2 years",
+            "salary_range": {
+                "min": 65000,
+                "max": 80000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Training programs",
+                "Relocation assistance",
+                "Career development"
+            ],
+            "company_description": "Caterpillar is the world's leading manufacturer of construction and mining equipment.",
+            "job_description": "Support construction projects by assisting with planning, coordination, and technical aspects.",
+            "key_responsibilities": [
+                "Project documentation",
+                "Cost tracking",
+                "Schedule coordination",
+                "Quality control",
+                "Site inspections"
+            ],
+            "required_skills": [
+                "AutoCAD",
+                "Project coordination",
+                "Communication",
+                "Problem-solving",
+                "Construction basics"
+            ]
+        },
+        {
+            "id": 56,
+            "company_logo": "https://logo.clearbit.com/hubspot.com",
+            "job_title": "Marketing Analytics Manager",
+            "job_category": "Marketing",
+            "posting_date": "2025-08-11T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "HubSpot",
+            "company_location": {
+                "city": "Cambridge",
+                "country": "USA",
+                "latitude": 42.3736,
+                "longitude": -71.1097
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 100000,
+                "max": 130000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote options",
+                "Health benefits",
+                "Stock options",
+                "Analytics tools budget",
+                "Professional development"
+            ],
+            "company_description": "HubSpot develops software for inbound marketing, sales, and customer service.",
+            "job_description": "Lead marketing analytics initiatives to measure performance and optimize marketing strategies.",
+            "key_responsibilities": [
+                "Data analysis",
+                "Campaign measurement",
+                "ROI analysis",
+                "Dashboard creation",
+                "Team leadership"
+            ],
+            "required_skills": [
+                "Google Analytics",
+                "SQL",
+                "Data visualization",
+                "Marketing metrics",
+                "Team management"
+            ]
+        },
+        {
+            "id": 57,
+            "company_logo": "https://logo.clearbit.com/zendesk.com",
+            "job_title": "Customer Support Trainer",
+            "job_category": "Customer Service",
+            "posting_date": "2025-08-11T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Zendesk",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 70000,
+                "max": 90000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Training budget",
+                "Flexible schedule"
+            ],
+            "company_description": "Zendesk provides customer service software.",
+            "job_description": "Develop and deliver training programs for customer support representatives to enhance service quality.",
+            "key_responsibilities": [
+                "Training development",
+                "Onboarding programs",
+                "Skill assessments",
+                "Training delivery",
+                "Performance evaluation"
+            ],
+            "required_skills": [
+                "Training delivery",
+                "Customer service",
+                "Curriculum development",
+                "Communication",
+                "Zendesk platform"
+            ]
+        },
+        {
+            "id": 58,
+            "company_logo": "https://logo.clearbit.com/github.com",
+            "job_title": "Machine Learning Engineer",
+            "job_category": "Software Development",
+            "posting_date": "2025-08-11T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "GitHub",
+            "company_location": {
+                "city": "San Francisco",
+                "country": "USA",
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 150000,
+                "max": 190000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Stock options",
+                "Health insurance",
+                "401(k) matching",
+                "Research budget",
+                "Conference attendance"
+            ],
+            "company_description": "GitHub is where the world builds software.",
+            "job_description": "Develop machine learning models to enhance GitHub's platform features and user experience.",
+            "key_responsibilities": [
+                "Model development",
+                "Data pipeline creation",
+                "Performance optimization",
+                "Research implementation",
+                "Code reviews"
+            ],
+            "required_skills": [
+                "Python",
+                "TensorFlow/PyTorch",
+                "Machine learning",
+                "Data pipelines",
+                "Software engineering"
+            ]
+        },
+        {
+            "id": 59,
+            "company_logo": "https://logo.clearbit.com/mayoclinic.org",
+            "job_title": "Surgical Technician",
+            "job_category": "Healthcare",
+            "posting_date": "2025-08-11T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Mayo Clinic",
+            "company_location": {
+                "city": "Jacksonville",
+                "country": "USA",
+                "latitude": 30.3322,
+                "longitude": -81.6557
+            },
+            "required_experience": "2+ years",
+            "salary_range": {
+                "min": 55000,
+                "max": 70000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Shift differential",
+                "Continuing education",
+                "Employee wellness"
+            ],
+            "company_description": "Mayo Clinic is a nonprofit American academic medical center.",
+            "job_description": "Assist surgical teams before, during, and after surgical procedures in a hospital setting.",
+            "key_responsibilities": [
+                "Equipment preparation",
+                "Sterilization",
+                "Surgical assistance",
+                "Patient preparation",
+                "Inventory management"
+            ],
+            "required_skills": [
+                "Surgical procedures",
+                "Sterile technique",
+                "Attention to detail",
+                "Teamwork",
+                "Medical terminology"
+            ]
+        },
+        {
+            "id": 60,
+            "company_logo": "https://logo.clearbit.com/visa.com",
+            "job_title": "Payment Systems Analyst",
+            "job_category": "Finance",
+            "posting_date": "2025-08-12T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Visa",
+            "company_location": {
+                "city": "Austin",
+                "country": "USA",
+                "latitude": 30.2672,
+                "longitude": -97.7431
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 85000,
+                "max": 105000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "401(k) matching",
+                "Stock options",
+                "Professional development",
+                "Flexible work options"
+            ],
+            "company_description": "Visa is a global payments technology company.",
+            "job_description": "Analyze and optimize Visa's payment systems to ensure reliability and efficiency.",
+            "key_responsibilities": [
+                "System monitoring",
+                "Performance analysis",
+                "Process improvement",
+                "Documentation",
+                "Stakeholder communication"
+            ],
+            "required_skills": [
+                "Payment systems",
+                "Data analysis",
+                "SQL",
+                "Process improvement",
+                "Financial technology"
+            ]
+        },
+        {
+            "id": 61,
+            "company_logo": "https://logo.clearbit.com/coursera.org",
+            "job_title": "Learning Technologist",
+            "job_category": "Education",
+            "posting_date": "2025-08-12T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Coursera",
+            "company_location": {
+                "city": "Mountain View",
+                "country": "USA",
+                "latitude": 37.3861,
+                "longitude": -122.0839
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "Stock options",
+                "Professional development",
+                "Flexible hours",
+                "Course access"
+            ],
+            "company_description": "Coursera is a global online learning platform.",
+            "job_description": "Implement and optimize learning technologies to enhance the online education experience.",
+            "key_responsibilities": [
+                "Technology evaluation",
+                "Platform integration",
+                "User support",
+                "Technical documentation",
+                "Quality assurance"
+            ],
+            "required_skills": [
+                "Learning management systems",
+                "EdTech",
+                "Technical support",
+                "Project management",
+                "Instructional technology"
+            ]
+        },
+        {
+            "id": 62,
+            "company_logo": "https://logo.clearbit.com/behance.net",
+            "job_title": "Interaction Designer",
+            "job_category": "Design",
+            "posting_date": "2025-08-12T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Behance",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 95000,
+                "max": 120000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Design budget",
+                "Flexible hours",
+                "Professional development"
+            ],
+            "company_description": "Behance is the leading online platform to showcase & discover creative work.",
+            "job_description": "Design intuitive and engaging user interactions for Behance's creative platform.",
+            "key_responsibilities": [
+                "Interaction design",
+                "Prototyping",
+                "User flows",
+                "Usability testing",
+                "Design collaboration"
+            ],
+            "required_skills": [
+                "Figma",
+                "Prototyping tools",
+                "User-centered design",
+                "Interaction patterns",
+                "Design systems"
+            ]
+        },
+        {
+            "id": 63,
+            "company_logo": "https://logo.clearbit.com/caterpillar.com",
+            "job_title": "Construction Estimator",
+            "job_category": "Construction",
+            "posting_date": "2025-08-12T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Caterpillar",
+            "company_location": {
+                "city": "Chicago",
+                "country": "USA",
+                "latitude": 41.8781,
+                "longitude": -87.6298
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 75000,
+                "max": 95000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Performance bonuses",
+                "Professional development",
+                "Company vehicle"
+            ],
+            "company_description": "Caterpillar is the world's leading manufacturer of construction and mining equipment.",
+            "job_description": "Prepare accurate cost estimates for construction projects using Caterpillar equipment.",
+            "key_responsibilities": [
+                "Cost estimation",
+                "Bid preparation",
+                "Material takeoffs",
+                "Vendor coordination",
+                "Project analysis"
+            ],
+            "required_skills": [
+                "Construction estimating",
+                "Blueprint reading",
+                "Cost analysis",
+                "Excel",
+                "Construction methods"
+            ]
+        },
+        {
+            "id": 64,
+            "company_logo": "https://logo.clearbit.com/hubspot.com",
+            "job_title": "Product Marketing Manager",
+            "job_category": "Marketing",
+            "posting_date": "2025-08-13T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "HubSpot",
+            "company_location": {
+                "city": "Cambridge",
+                "country": "USA",
+                "latitude": 42.3736,
+                "longitude": -71.1097
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 110000,
+                "max": 140000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote options",
+                "Health benefits",
+                "Stock options",
+                "Marketing budget",
+                "Professional development"
+            ],
+            "company_description": "HubSpot develops software for inbound marketing, sales, and customer service.",
+            "job_description": "Develop and execute marketing strategies for HubSpot's product offerings.",
+            "key_responsibilities": [
+                "Market research",
+                "Positioning strategy",
+                "Go-to-market plans",
+                "Sales enablement",
+                "Competitive analysis"
+            ],
+            "required_skills": [
+                "Product marketing",
+                "Market research",
+                "Positioning",
+                "Marketing strategy",
+                "Communication"
+            ]
+        },
+        {
+            "id": 65,
+            "company_logo": "https://logo.clearbit.com/zendesk.com",
+            "job_title": "Customer Support Specialist",
+            "job_category": "Customer Service",
+            "posting_date": "2025-08-13T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Entry-level",
+            "company_name": "Zendesk",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "1+ years",
+            "salary_range": {
+                "min": 50000,
+                "max": 60000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Career growth",
+                "Flexible schedule"
+            ],
+            "company_description": "Zendesk provides customer service software.",
+            "job_description": "Provide exceptional support to Zendesk customers via multiple channels.",
+            "key_responsibilities": [
+                "Customer inquiries",
+                "Issue resolution",
+                "Product guidance",
+                "Knowledge base contributions",
+                "Feedback collection"
+            ],
+            "required_skills": [
+                "Customer service",
+                "Communication",
+                "Problem-solving",
+                "Patience",
+                "Technical aptitude"
+            ]
+        },
+        {
+            "id": 66,
+            "company_logo": "https://logo.clearbit.com/github.com",
+            "job_title": "Database Administrator",
+            "job_category": "Software Development",
+            "posting_date": "2025-08-13T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "GitHub",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 130000,
+                "max": 160000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health insurance",
+                "Stock options",
+                "Professional development",
+                "Flexible hours"
+            ],
+            "company_description": "GitHub is where the world builds software.",
+            "job_description": "Manage and optimize GitHub's database systems to ensure performance and reliability.",
+            "key_responsibilities": [
+                "Database management",
+                "Performance tuning",
+                "Backup/recovery",
+                "Security implementation",
+                "Capacity planning"
+            ],
+            "required_skills": [
+                "PostgreSQL",
+                "Database optimization",
+                "SQL",
+                "Backup strategies",
+                "Cloud databases"
+            ]
+        },
+        {
+            "id": 67,
+            "company_logo": "https://logo.clearbit.com/mayoclinic.org",
+            "job_title": "Radiology Technician",
+            "job_category": "Healthcare",
+            "posting_date": "2025-08-13T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Mayo Clinic",
+            "company_location": {
+                "city": "Rochester",
+                "country": "USA",
+                "latitude": 44.0216,
+                "longitude": -92.4699
+            },
+            "required_experience": "2+ years",
+            "salary_range": {
+                "min": 65000,
+                "max": 80000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Continuing education",
+                "Shift differential",
+                "Employee wellness"
+            ],
+            "company_description": "Mayo Clinic is a nonprofit American academic medical center.",
+            "job_description": "Perform diagnostic imaging examinations in a clinical setting.",
+            "key_responsibilities": [
+                "Patient preparation",
+                "Equipment operation",
+                "Image quality assurance",
+                "Radiation safety",
+                "Patient care"
+            ],
+            "required_skills": [
+                "Radiology equipment",
+                "Patient positioning",
+                "Radiation safety",
+                "Attention to detail",
+                "Communication"
+            ]
+        },
+        {
+            "id": 68,
+            "company_logo": "https://logo.clearbit.com/visa.com",
+            "job_title": "Compliance Analyst",
+            "job_category": "Finance",
+            "posting_date": "2025-08-14T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Visa",
+            "company_location": {
+                "city": "San Francisco",
+                "country": "USA",
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 85000,
+                "max": 105000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "401(k) matching",
+                "Stock options",
+                "Professional development",
+                "Flexible work options"
+            ],
+            "company_description": "Visa is a global payments technology company.",
+            "job_description": "Ensure compliance with financial regulations and internal policies across Visa's operations.",
+            "key_responsibilities": [
+                "Regulatory monitoring",
+                "Policy implementation",
+                "Risk assessment",
+                "Audit support",
+                "Training development"
+            ],
+            "required_skills": [
+                "Regulatory compliance",
+                "Financial regulations",
+                "Risk assessment",
+                "Attention to detail",
+                "Communication"
+            ]
+        },
+        {
+            "id": 69,
+            "company_logo": "https://logo.clearbit.com/coursera.org",
+            "job_title": "Academic Program Manager",
+            "job_category": "Education",
+            "posting_date": "2025-08-14T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "Coursera",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 90000,
+                "max": 120000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Professional development",
+                "Flexible schedule"
+            ],
+            "company_description": "Coursera is a global online learning platform.",
+            "job_description": "Manage academic partnerships and online degree programs on Coursera's platform.",
+            "key_responsibilities": [
+                "Program management",
+                "Faculty coordination",
+                "Curriculum oversight",
+                "Student success",
+                "Partnership management"
+            ],
+            "required_skills": [
+                "Program management",
+                "Higher education",
+                "Partnership management",
+                "Communication",
+                "Online education"
+            ]
+        },
+        {
+            "id": 70,
+            "company_logo": "https://logo.clearbit.com/behance.net",
+            "job_title": "Brand Designer",
+            "job_category": "Design",
+            "posting_date": "2025-08-14T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Behance",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 85000,
+                "max": 110000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "Stock options",
+                "Design budget",
+                "Flexible hours",
+                "Creative freedom"
+            ],
+            "company_description": "Behance is the leading online platform to showcase & discover creative work.",
+            "job_description": "Develop and maintain Behance's visual brand identity across all touchpoints.",
+            "key_responsibilities": [
+                "Brand development",
+                "Visual identity",
+                "Marketing collateral",
+                "Design guidelines",
+                "Creative direction"
+            ],
+            "required_skills": [
+                "Branding",
+                "Adobe Creative Suite",
+                "Visual design",
+                "Typography",
+                "Creative direction"
+            ]
+        },
+        {
+            "id": 71,
+            "company_logo": "https://logo.clearbit.com/caterpillar.com",
+            "job_title": "Construction Superintendent",
+            "job_category": "Construction",
+            "posting_date": "2025-08-14T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "Caterpillar",
+            "company_location": {
+                "city": "Houston",
+                "country": "USA",
+                "latitude": 29.7604,
+                "longitude": -95.3698
+            },
+            "required_experience": "7+ years",
+            "salary_range": {
+                "min": 95000,
+                "max": 125000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Company vehicle",
+                "Performance bonuses",
+                "Relocation assistance"
+            ],
+            "company_description": "Caterpillar is the world's leading manufacturer of construction and mining equipment.",
+            "job_description": "Oversee construction projects from start to finish, ensuring quality and timely completion.",
+            "key_responsibilities": [
+                "Site supervision",
+                "Team management",
+                "Schedule coordination",
+                "Quality control",
+                "Safety compliance"
+            ],
+            "required_skills": [
+                "Construction management",
+                "Blueprint reading",
+                "Team leadership",
+                "OSHA regulations",
+                "Problem-solving"
+            ]
+        },
+        {
+            "id": 72,
+            "company_logo": "https://logo.clearbit.com/hubspot.com",
+            "job_title": "Marketing Operations Specialist",
+            "job_category": "Marketing",
+            "posting_date": "2025-08-15T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "HubSpot",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 75000,
+                "max": 95000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Marketing tools",
+                "Professional development"
+            ],
+            "company_description": "HubSpot develops software for inbound marketing, sales, and customer service.",
+            "job_description": "Optimize marketing operations and technology stack to improve efficiency and performance.",
+            "key_responsibilities": [
+                "Marketing automation",
+                "CRM management",
+                "Data hygiene",
+                "Process improvement",
+                "Tool integration"
+            ],
+            "required_skills": [
+                "Marketing automation",
+                "CRM platforms",
+                "Data analysis",
+                "Process improvement",
+                "Technical aptitude"
+            ]
+        },
+        {
+            "id": 73,
+            "company_logo": "https://logo.clearbit.com/zendesk.com",
+            "job_title": "Customer Experience Analyst",
+            "job_category": "Customer Service",
+            "posting_date": "2025-08-15T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Zendesk",
+            "company_location": {
+                "city": "San Francisco",
+                "country": "USA",
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Stock options",
+                "Analytics tools",
+                "Professional development",
+                "Flexible work options"
+            ],
+            "company_description": "Zendesk provides customer service software.",
+            "job_description": "Analyze customer experience data to identify trends and opportunities for improvement.",
+            "key_responsibilities": [
+                "Data analysis",
+                "Customer feedback",
+                "Journey mapping",
+                "Reporting",
+                "Recommendations"
+            ],
+            "required_skills": [
+                "Data analysis",
+                "Customer experience",
+                "SQL",
+                "Data visualization",
+                "Communication"
+            ]
+        },
+        {
+            "id": 74,
+            "company_logo": "https://logo.clearbit.com/github.com",
+            "job_title": "Site Reliability Engineer",
+            "job_category": "Software Development",
+            "posting_date": "2025-08-15T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "GitHub",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 140000,
+                "max": 180000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health insurance",
+                "Stock options",
+                "Professional development",
+                "Flexible hours"
+            ],
+            "company_description": "GitHub is where the world builds software.",
+            "job_description": "Ensure the reliability and performance of GitHub's platform through infrastructure automation and monitoring.",
+            "key_responsibilities": [
+                "System reliability",
+                "Incident response",
+                "Performance optimization",
+                "Automation",
+                "Capacity planning"
+            ],
+            "required_skills": [
+                "Linux",
+                "Cloud infrastructure",
+                "Monitoring tools",
+                "Scripting",
+                "Distributed systems"
+            ]
+        },
+        {
+            "id": 75,
+            "company_logo": "https://logo.clearbit.com/mayoclinic.org",
+            "job_title": "Emergency Room Nurse",
+            "job_category": "Healthcare",
+            "posting_date": "2025-08-15T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Mayo Clinic",
+            "company_location": {
+                "city": "Phoenix",
+                "country": "USA",
+                "latitude": 33.4484,
+                "longitude": -112.0740
+            },
+            "required_experience": "2+ years ER",
+            "salary_range": {
+                "min": 75000,
+                "max": 90000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Shift differential",
+                "Continuing education",
+                "Employee wellness"
+            ],
+            "company_description": "Mayo Clinic is a nonprofit American academic medical center.",
+            "job_description": "Provide critical nursing care to patients in the emergency department.",
+            "key_responsibilities": [
+                "Patient triage",
+                "Emergency care",
+                "Medication administration",
+                "Team coordination",
+                "Documentation"
+            ],
+            "required_skills": [
+                "Emergency care",
+                "Critical thinking",
+                "Communication",
+                "Stress management",
+                "Teamwork"
+            ]
+        },
+        {
+            "id": 76,
+            "company_logo": "https://logo.clearbit.com/visa.com",
+            "job_title": "Product Manager - Payments",
+            "job_category": "Finance",
+            "posting_date": "2025-08-16T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "Visa",
+            "company_location": {
+                "city": "San Francisco",
+                "country": "USA",
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 130000,
+                "max": 160000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "401(k) matching",
+                "Stock options",
+                "Professional development",
+                "Flexible work options"
+            ],
+            "company_description": "Visa is a global payments technology company.",
+            "job_description": "Lead product development for Visa's payment solutions, from concept to launch.",
+            "key_responsibilities": [
+                "Product strategy",
+                "Roadmap planning",
+                "Stakeholder alignment",
+                "Market research",
+                "Go-to-market execution"
+            ],
+            "required_skills": [
+                "Product management",
+                "Payments industry",
+                "Agile methodology",
+                "Market research",
+                "Leadership"
+            ]
+        },
+        {
+            "id": 77,
+            "company_logo": "https://logo.clearbit.com/coursera.org",
+            "job_title": "Community Engagement Manager",
+            "job_category": "Education",
+            "posting_date": "2025-08-16T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Coursera",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 75000,
+                "max": 95000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Professional development",
+                "Flexible schedule"
+            ],
+            "company_description": "Coursera is a global online learning platform.",
+            "job_description": "Build and engage Coursera's learner community through programs and initiatives.",
+            "key_responsibilities": [
+                "Community strategy",
+                "Engagement programs",
+                "Moderation",
+                "Feedback collection",
+                "Partnerships"
+            ],
+            "required_skills": [
+                "Community management",
+                "Engagement strategies",
+                "Communication",
+                "Social media",
+                "Education technology"
+            ]
+        },
+        {
+            "id": 78,
+            "company_logo": "https://logo.clearbit.com/behance.net",
+            "job_title": "Illustrator",
+            "job_category": "Design",
+            "posting_date": "2025-08-16T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Behance",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 70000,
+                "max": 90000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Creative tools",
+                "Professional development",
+                "Flexible schedule"
+            ],
+            "company_description": "Behance is the leading online platform to showcase & discover creative work.",
+            "job_description": "Create original illustrations for Behance's platform and marketing materials.",
+            "key_responsibilities": [
+                "Illustration creation",
+                "Concept development",
+                "Brand alignment",
+                "Digital artwork",
+                "Creative collaboration"
+            ],
+            "required_skills": [
+                "Digital illustration",
+                "Adobe Illustrator",
+                "Procreate",
+                "Visual storytelling",
+                "Creativity"
+            ]
+        },
+        {
+            "id": 79,
+            "company_logo": "https://logo.clearbit.com/caterpillar.com",
+            "job_title": "Construction Scheduler",
+            "job_category": "Construction",
+            "posting_date": "2025-08-16T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Caterpillar",
+            "company_location": {
+                "city": "Chicago",
+                "country": "USA",
+                "latitude": 41.8781,
+                "longitude": -87.6298
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Professional development",
+                "Performance bonuses",
+                "Flexible hours"
+            ],
+            "company_description": "Caterpillar is the world's leading manufacturer of construction and mining equipment.",
+            "job_description": "Develop and maintain construction project schedules to ensure timely completion.",
+            "key_responsibilities": [
+                "Schedule development",
+                "Progress tracking",
+                "Resource allocation",
+                "Risk analysis",
+                "Stakeholder communication"
+            ],
+            "required_skills": [
+                "Scheduling software",
+                "Project management",
+                "Construction methods",
+                "Analytical skills",
+                "Communication"
+            ]
+        },
+        {
+            "id": 80,
+            "company_logo": "https://logo.clearbit.com/hubspot.com",
+            "job_title": "Demand Generation Manager",
+            "job_category": "Marketing",
+            "posting_date": "2025-08-17T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "HubSpot",
+            "company_location": {
+                "city": "Cambridge",
+                "country": "USA",
+                "latitude": 42.3736,
+                "longitude": -71.1097
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 100000,
+                "max": 130000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote options",
+                "Health benefits",
+                "Stock options",
+                "Marketing budget",
+                "Professional development"
+            ],
+            "company_description": "HubSpot develops software for inbound marketing, sales, and customer service.",
+            "job_description": "Develop and execute demand generation strategies to drive pipeline growth.",
+            "key_responsibilities": [
+                "Campaign strategy",
+                "Lead generation",
+                "Performance analysis",
+                "Budget management",
+                "Team leadership"
+            ],
+            "required_skills": [
+                "Demand generation",
+                "Marketing automation",
+                "Lead generation",
+                "Data analysis",
+                "Team management"
+            ]
+        },
+        {
+            "id": 81,
+            "company_logo": "https://logo.clearbit.com/zendesk.com",
+            "job_title": "Customer Support Quality Analyst",
+            "job_category": "Customer Service",
+            "posting_date": "2025-08-17T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Zendesk",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 70000,
+                "max": 90000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Professional development",
+                "Flexible schedule"
+            ],
+            "company_description": "Zendesk provides customer service software.",
+            "job_description": "Monitor and evaluate customer support interactions to ensure quality standards.",
+            "key_responsibilities": [
+                "Quality monitoring",
+                "Evaluation scoring",
+                "Feedback delivery",
+                "Process improvement",
+                "Training support"
+            ],
+            "required_skills": [
+                "Quality assurance",
+                "Customer service",
+                "Evaluation",
+                "Communication",
+                "Process improvement"
+            ]
+        },
+        {
+            "id": 82,
+            "company_logo": "https://logo.clearbit.com/github.com",
+            "job_title": "Technical Writer",
+            "job_category": "Software Development",
+            "posting_date": "2025-08-17T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "GitHub",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 90000,
+                "max": 115000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health insurance",
+                "Stock options",
+                "Professional development",
+                "Flexible hours"
+            ],
+            "company_description": "GitHub is where the world builds software.",
+            "job_description": "Create clear and comprehensive documentation for GitHub's products and services.",
+            "key_responsibilities": [
+                "Documentation writing",
+                "Technical content",
+                "API documentation",
+                "User guides",
+                "Content maintenance"
+            ],
+            "required_skills": [
+                "Technical writing",
+                "Markdown",
+                "Git",
+                "API documentation",
+                "Communication"
+            ]
+        },
+        {
+            "id": 83,
+            "company_logo": "https://logo.clearbit.com/mayoclinic.org",
+            "job_title": "Pharmacist",
+            "job_category": "Healthcare",
+            "posting_date": "2025-08-17T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "Mayo Clinic",
+            "company_location": {
+                "city": "Rochester",
+                "country": "USA",
+                "latitude": 44.0216,
+                "longitude": -92.4699
+            },
+            "required_experience": "Licensed Pharmacist",
+            "salary_range": {
+                "min": 120000,
+                "max": 140000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Continuing education",
+                "Paid time off",
+                "Employee wellness"
+            ],
+            "company_description": "Mayo Clinic is a nonprofit American academic medical center.",
+            "job_description": "Provide pharmaceutical care to patients in a hospital setting.",
+            "key_responsibilities": [
+                "Medication dispensing",
+                "Patient counseling",
+                "Drug interaction review",
+                "Inventory management",
+                "Clinical support"
+            ],
+            "required_skills": [
+                "Pharmacy knowledge",
+                "Attention to detail",
+                "Communication",
+                "Patient care",
+                "Regulatory compliance"
+            ]
+        },
+        {
+            "id": 84,
+            "company_logo": "https://logo.clearbit.com/visa.com",
+            "job_title": "Credit Risk Analyst",
+            "job_category": "Finance",
+            "posting_date": "2025-08-18T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Visa",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 90000,
+                "max": 110000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "401(k) matching",
+                "Stock options",
+                "Professional development",
+                "Flexible work options"
+            ],
+            "company_description": "Visa is a global payments technology company.",
+            "job_description": "Assess and manage credit risk for Visa's payment network and clients.",
+            "key_responsibilities": [
+                "Risk assessment",
+                "Portfolio analysis",
+                "Model development",
+                "Reporting",
+                "Policy recommendations"
+            ],
+            "required_skills": [
+                "Credit risk",
+                "Financial analysis",
+                "Data modeling",
+                "Risk management",
+                "Regulatory knowledge"
+            ]
+        },
+        {
+            "id": 85,
+            "company_logo": "https://logo.clearbit.com/coursera.org",
+            "job_title": "Instructional Designer",
+            "job_category": "Education",
+            "posting_date": "2025-08-18T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Coursera",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Professional development",
+                "Flexible schedule"
+            ],
+            "company_description": "Coursera is a global online learning platform.",
+            "job_description": "Design engaging and effective online learning experiences for Coursera's courses.",
+            "key_responsibilities": [
+                "Course design",
+                "Learning objectives",
+                "Assessment development",
+                "Multimedia integration",
+                "Quality assurance"
+            ],
+            "required_skills": [
+                "Instructional design",
+                "Learning theories",
+                "eLearning tools",
+                "Curriculum development",
+                "Project management"
+            ]
+        },
+        {
+            "id": 86,
+            "company_logo": "https://logo.clearbit.com/behance.net",
+            "job_title": "Photographer",
+            "job_category": "Design",
+            "posting_date": "2025-08-18T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Behance",
+            "company_location": {
+                "city": "New York",
+                "country": "USA",
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 65000,
+                "max": 85000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "Equipment budget",
+                "Creative freedom",
+                "Professional development",
+                "Showcase opportunities"
+            ],
+            "company_description": "Behance is the leading online platform to showcase & discover creative work.",
+            "job_description": "Create high-quality photographic content for Behance's platform and marketing materials.",
+            "key_responsibilities": [
+                "Photo shoots",
+                "Image editing",
+                "Creative direction",
+                "Equipment maintenance",
+                "Content planning"
+            ],
+            "required_skills": [
+                "Photography",
+                "Lighting",
+                "Photo editing",
+                "Creativity",
+                "Attention to detail"
+            ]
+        },
+        {
+            "id": 87,
+            "company_logo": "https://logo.clearbit.com/caterpillar.com",
+            "job_title": "Construction Safety Officer",
+            "job_category": "Construction",
+            "posting_date": "2025-08-18T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Caterpillar",
+            "company_location": {
+                "city": "Houston",
+                "country": "USA",
+                "latitude": 29.7604,
+                "longitude": -95.3698
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 70000,
+                "max": 90000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Safety bonuses",
+                "Training programs",
+                "Company vehicle"
+            ],
+            "company_description": "Caterpillar is the world's leading manufacturer of construction and mining equipment.",
+            "job_description": "Implement and oversee safety programs on construction sites using Caterpillar equipment.",
+            "key_responsibilities": [
+                "Safety inspections",
+                "Policy implementation",
+                "Incident investigation",
+                "Training delivery",
+                "Regulatory compliance"
+            ],
+            "required_skills": [
+                "OSHA regulations",
+                "Safety management",
+                "Construction safety",
+                "Training delivery",
+                "Attention to detail"
+            ]
+        },
+        {
+            "id": 88,
+            "company_logo": "https://logo.clearbit.com/hubspot.com",
+            "job_title": "Marketing Copywriter",
+            "job_category": "Marketing",
+            "posting_date": "2025-08-19T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "HubSpot",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 70000,
+                "max": 90000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Writing tools",
+                "Professional development"
+            ],
+            "company_description": "HubSpot develops software for inbound marketing, sales, and customer service.",
+            "job_description": "Create compelling marketing copy for HubSpot's campaigns, website, and content.",
+            "key_responsibilities": [
+                "Copywriting",
+                "Content creation",
+                "Brand messaging",
+                "SEO optimization",
+                "Editing"
+            ],
+            "required_skills": [
+                "Copywriting",
+                "Content marketing",
+                "SEO",
+                "Editing",
+                "Creativity"
+            ]
+        },
+        {
+            "id": 89,
+            "company_logo": "https://logo.clearbit.com/zendesk.com",
+            "job_title": "Customer Support Team Lead",
+            "job_category": "Customer Service",
+            "posting_date": "2025-08-19T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Zendesk",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 75000,
+                "max": 95000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Leadership training",
+                "Flexible schedule"
+            ],
+            "company_description": "Zendesk provides customer service software.",
+            "job_description": "Lead a team of customer support representatives to deliver exceptional service.",
+            "key_responsibilities": [
+                "Team management",
+                "Performance coaching",
+                "Escalation handling",
+                "Process improvement",
+                "Reporting"
+            ],
+            "required_skills": [
+                "Team leadership",
+                "Customer service",
+                "Performance management",
+                "Communication",
+                "Problem-solving"
+            ]
+        },
+        {
+            "id": 90,
+            "company_logo": "https://logo.clearbit.com/github.com",
+            "job_title": "Data Engineer",
+            "job_category": "Software Development",
+            "posting_date": "2025-08-19T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "GitHub",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 140000,
+                "max": 170000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health insurance",
+                "Stock options",
+                "Professional development",
+                "Flexible hours"
+            ],
+            "company_description": "GitHub is where the world builds software.",
+            "job_description": "Design and implement data pipelines and infrastructure to support GitHub's data needs.",
+            "key_responsibilities": [
+                "Data pipeline development",
+                "ETL processes",
+                "Data warehousing",
+                "Performance optimization",
+                "Data quality"
+            ],
+            "required_skills": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Data warehousing",
+                "Big data"
+            ]
+        },
+        {
+            "id": 91,
+            "company_logo": "https://logo.clearbit.com/mayoclinic.org",
+            "job_title": "Respiratory Therapist",
+            "job_category": "Healthcare",
+            "posting_date": "2025-08-19T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Mayo Clinic",
+            "company_location": {
+                "city": "Phoenix",
+                "country": "USA",
+                "latitude": 33.4484,
+                "longitude": -112.0740
+            },
+            "required_experience": "2+ years",
+            "salary_range": {
+                "min": 70000,
+                "max": 85000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Continuing education",
+                "Shift differential",
+                "Employee wellness"
+            ],
+            "company_description": "Mayo Clinic is a nonprofit American academic medical center.",
+            "job_description": "Provide respiratory care to patients with breathing disorders in a clinical setting.",
+            "key_responsibilities": [
+                "Patient assessment",
+                "Treatment administration",
+                "Ventilator management",
+                "Emergency response",
+                "Patient education"
+            ],
+            "required_skills": [
+                "Respiratory care",
+                "Patient assessment",
+                "Ventilator management",
+                "Communication",
+                "Emergency response"
+            ]
+        },
+        {
+            "id": 92,
+            "company_logo": "https://logo.clearbit.com/visa.com",
+            "job_title": "Business Intelligence Analyst",
+            "job_category": "Finance",
+            "posting_date": "2025-08-20T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Visa",
+            "company_location": {
+                "city": "Austin",
+                "country": "USA",
+                "latitude": 30.2672,
+                "longitude": -97.7431
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 95000,
+                "max": 115000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health benefits",
+                "401(k) matching",
+                "Stock options",
+                "Professional development",
+                "Flexible work options"
+            ],
+            "company_description": "Visa is a global payments technology company.",
+            "job_description": "Analyze business data to provide insights and support decision-making at Visa.",
+            "key_responsibilities": [
+                "Data analysis",
+                "Dashboard creation",
+                "Report generation",
+                "Trend identification",
+                "Stakeholder communication"
+            ],
+            "required_skills": [
+                "SQL",
+                "Data visualization",
+                "Business intelligence",
+                "Analytical thinking",
+                "Communication"
+            ]
+        },
+        {
+            "id": 93,
+            "company_logo": "https://logo.clearbit.com/coursera.org",
+            "job_title": "Partnerships Manager",
+            "job_category": "Education",
+            "posting_date": "2025-08-20T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "Coursera",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "5+ years",
+            "salary_range": {
+                "min": 95000,
+                "max": 120000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Stock options",
+                "Professional development",
+                "Flexible schedule"
+            ],
+            "company_description": "Coursera is a global online learning platform.",
+            "job_description": "Develop and manage partnerships with universities and organizations for Coursera's platform.",
+            "key_responsibilities": [
+                "Partnership development",
+                "Relationship management",
+                "Contract negotiation",
+                "Program coordination",
+                "Performance tracking"
+            ],
+            "required_skills": [
+                "Partnership management",
+                "Relationship building",
+                "Negotiation",
+                "Higher education",
+                "Communication"
+            ]
+        },
+        {
+            "id": 94,
+            "company_logo": "https://logo.clearbit.com/behance.net",
+            "job_title": "3D Artist",
+            "job_category": "Design",
+            "posting_date": "2025-08-20T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Behance",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health benefits",
+                "Creative tools",
+                "Professional development",
+                "Flexible schedule"
+            ],
+            "company_description": "Behance is the leading online platform to showcase & discover creative work.",
+            "job_description": "Create high-quality 3D artwork and animations for Behance's platform and marketing.",
+            "key_responsibilities": [
+                "3D modeling",
+                "Texturing",
+                "Lighting",
+                "Rendering",
+                "Animation"
+            ],
+            "required_skills": [
+                "Blender/Maya",
+                "3D modeling",
+                "Texturing",
+                "Lighting",
+                "Creativity"
+            ]
+        },
+        {
+            "id": 95,
+            "company_logo": "https://logo.clearbit.com/caterpillar.com",
+            "job_title": "Construction Project Coordinator",
+            "job_category": "Construction",
+            "posting_date": "2025-08-20T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Entry-level",
+            "company_name": "Caterpillar",
+            "company_location": {
+                "city": "Peoria",
+                "country": "USA",
+                "latitude": 40.6936,
+                "longitude": -89.5890
+            },
+            "required_experience": "1+ years",
+            "salary_range": {
+                "min": 55000,
+                "max": 70000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Training programs",
+                "Career development",
+                "Flexible hours"
+            ],
+            "company_description": "Caterpillar is the world's leading manufacturer of construction and mining equipment.",
+            "job_description": "Support construction project managers with administrative and coordination tasks.",
+            "key_responsibilities": [
+                "Document management",
+                "Schedule coordination",
+                "Meeting support",
+                "Reporting",
+                "Communication"
+            ],
+            "required_skills": [
+                "Organization",
+                "Communication",
+                "Microsoft Office",
+                "Attention to detail",
+                "Project coordination"
+            ]
+        },
+        {
+            "id": 96,
+            "company_logo": "https://logo.clearbit.com/hubspot.com",
+            "job_title": "Marketing Data Analyst",
+            "job_category": "Marketing",
+            "posting_date": "2025-08-21T09:00:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "HubSpot",
+            "company_location": {
+                "city": "Cambridge",
+                "country": "USA",
+                "latitude": 42.3736,
+                "longitude": -71.1097
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 85000,
+                "max": 105000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote options",
+                "Health benefits",
+                "Stock options",
+                "Analytics tools",
+                "Professional development"
+            ],
+            "company_description": "HubSpot develops software for inbound marketing, sales, and customer service.",
+            "job_description": "Analyze marketing performance data to optimize campaigns and strategies.",
+            "key_responsibilities": [
+                "Data analysis",
+                "Performance reporting",
+                "ROI analysis",
+                "Dashboard creation",
+                "Recommendations"
+            ],
+            "required_skills": [
+                "SQL",
+                "Data visualization",
+                "Marketing analytics",
+                "Statistical analysis",
+                "Communication"
+            ]
+        },
+        {
+            "id": 97,
+            "company_logo": "https://logo.clearbit.com/zendesk.com",
+            "job_title": "Customer Support Operations Analyst",
+            "job_category": "Customer Service",
+            "posting_date": "2025-08-21T10:15:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Zendesk",
+            "company_location": {
+                "city": "San Francisco",
+                "country": "USA",
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            },
+            "required_experience": "3+ years",
+            "salary_range": {
+                "min": 80000,
+                "max": 100000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Stock options",
+                "Analytics tools",
+                "Professional development",
+                "Flexible work options"
+            ],
+            "company_description": "Zendesk provides customer service software.",
+            "job_description": "Analyze support operations data to improve efficiency and customer satisfaction.",
+            "key_responsibilities": [
+                "Data analysis",
+                "Process improvement",
+                "Reporting",
+                "Tool optimization",
+                "Performance metrics"
+            ],
+            "required_skills": [
+                "Data analysis",
+                "Process improvement",
+                "SQL",
+                "Customer service",
+                "Communication"
+            ]
+        },
+        {
+            "id": 98,
+            "company_logo": "https://logo.clearbit.com/github.com",
+            "job_title": "Cloud Architect",
+            "job_category": "Software Development",
+            "posting_date": "2025-08-21T11:30:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Senior",
+            "company_name": "GitHub",
+            "company_location": {
+                "city": "Remote",
+                "country": "USA",
+                "latitude": 37.0902,
+                "longitude": -95.7129
+            },
+            "required_experience": "7+ years",
+            "salary_range": {
+                "min": 160000,
+                "max": 200000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Remote work",
+                "Health insurance",
+                "Stock options",
+                "Professional development",
+                "Flexible hours"
+            ],
+            "company_description": "GitHub is where the world builds software.",
+            "job_description": "Design and implement cloud architecture solutions for GitHub's platform.",
+            "key_responsibilities": [
+                "Cloud strategy",
+                "Architecture design",
+                "Security implementation",
+                "Performance optimization",
+                "Technical leadership"
+            ],
+            "required_skills": [
+                "Cloud architecture",
+                "AWS/Azure",
+                "Infrastructure as code",
+                "Security",
+                "Scalability"
+            ]
+        },
+        {
+            "id": 99,
+            "company_logo": "https://logo.clearbit.com/mayoclinic.org",
+            "job_title": "Occupational Therapist",
+            "job_category": "Healthcare",
+            "posting_date": "2025-08-21T12:45:00Z",
+            "job_type": "Full-time",
+            "experience_level": "Mid-level",
+            "company_name": "Mayo Clinic",
+            "company_location": {
+                "city": "Jacksonville",
+                "country": "USA",
+                "latitude": 30.3322,
+                "longitude": -81.6557
+            },
+            "required_experience": "2+ years",
+            "salary_range": {
+                "min": 75000,
+                "max": 90000,
+                "currency": "USD/year"
+            },
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Continuing education",
+                "Paid time off",
+                "Employee wellness"
+            ],
+            "company_description": "Mayo Clinic is a nonprofit American academic medical center.",
+            "job_description": "Help patients develop, recover, and improve skills needed for daily living.",
+            "key_responsibilities": [
+                "Patient assessment",
+                "Treatment planning",
+                "Therapy implementation",
+                "Progress documentation",
+                "Patient education"
+            ],
+            "required_skills": [
+                "Occupational therapy",
+                "Patient care",
+                "Rehabilitation",
+                "Communication",
+                "Empathy"
+            ]
         }
     ]
 }
